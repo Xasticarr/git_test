@@ -1,1 +1,3 @@
 I am modifying this file to test status change in Git
+
+Testing again to make sure VSC is going to give a message prompt when commiting
